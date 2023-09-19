@@ -1,6 +1,5 @@
-# Task2-HTML
 
-# [Glens's BakeHouse](https://srividya-03.github.io/Task2-HTML/)
+# [GLEN'S BAKEHOUSE](https://srividya-03.github.io/Task2-HTML/)
 
 This is a HTML Webpage.
 
